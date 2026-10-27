@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.log
+.cursor/
+.idea/
+.vscode/
+*.swp
+*~
+/cache/*.cache
+/cache/*.tmp
